@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#specific prod-level files
+eshosts.txt
+capture.txt
+viewer.txt
+config.json

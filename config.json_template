@@ -1,0 +1,2 @@
+{"hosts" : ["es_hostX:9200"],
+"pool":10}
